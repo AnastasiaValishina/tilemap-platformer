@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 221262191f0a4b4488138c863f7d581f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2635327846415717249
+    second: NES Platformer (1)_0
+  - first:
+      213: 3794174719305649121
+    second: NES Platformer (1)_1
+  - first:
+      213: -4813497755632727655
+    second: NES Platformer (1)_2
+  - first:
+      213: -5929654546844119619
+    second: NES Platformer (1)_3
+  - first:
+      213: 8177083072010308671
+    second: NES Platformer (1)_4
+  - first:
+      213: -7286404588867473112
+    second: NES Platformer (1)_5
+  - first:
+      213: -5712559872134029261
+    second: NES Platformer (1)_6
+  - first:
+      213: 755116781353469173
+    second: NES Platformer (1)_7
+  - first:
+      213: 8959751205109801642
+    second: NES Platformer (1)_8
+  - first:
+      213: 7028651427624286142
+    second: NES Platformer (1)_9
+  - first:
+      213: 2199678047164866514
+    second: NES Platformer (1)_10
+  - first:
+      213: -1945180966472728838
+    second: NES Platformer (1)_11
+  - first:
+      213: 1122714237088911519
+    second: NES Platformer (1)_12
+  - first:
+      213: -1719947289070997603
+    second: NES Platformer (1)_13
+  - first:
+      213: 1264740032259596831
+    second: NES Platformer (1)_14
+  - first:
+      213: -7105799975699172293
+    second: NES Platformer (1)_15
+  - first:
+      213: 7937079470413719783
+    second: NES Platformer (1)_16
+  - first:
+      213: 2835938814207798076
+    second: NES Platformer (1)_17
+  - first:
+      213: -7938174073936405603
+    second: NES Platformer (1)_18
+  - first:
+      213: -9172305834877771878
+    second: NES Platformer (1)_19
+  - first:
+      213: -3470851156777198309
+    second: NES Platformer (1)_20
+  - first:
+      213: -8481709121328808256
+    second: NES Platformer (1)_21
+  - first:
+      213: 2036762082873932780
+    second: NES Platformer (1)_22
+  - first:
+      213: 7233986331568484275
+    second: NES Platformer (1)_23
+  - first:
+      213: 571962919541998638
+    second: NES Platformer (1)_24
+  - first:
+      213: -5837575598891247471
+    second: NES Platformer (1)_25
+  - first:
+      213: 4195369075594035305
+    second: NES Platformer (1)_26
+  - first:
+      213: -8029789893941906126
+    second: NES Platformer (1)_27
+  - first:
+      213: -722579687990574492
+    second: NES Platformer (1)_28
+  - first:
+      213: 3856978486437975146
+    second: NES Platformer (1)_29
+  - first:
+      213: 7204300417079837333
+    second: NES Platformer (1)_30
+  - first:
+      213: 7158800672209801173
+    second: NES Platformer (1)_31
+  - first:
+      213: 4184000748924351421
+    second: NES Platformer (1)_32
+  - first:
+      213: -4229770755932591186
+    second: NES Platformer (1)_33
+  - first:
+      213: -4547655637226890609
+    second: NES Platformer (1)_34
+  - first:
+      213: -8431666641091482101
+    second: NES Platformer (1)_35
+  - first:
+      213: -7694963829928175118
+    second: NES Platformer (1)_36
+  - first:
+      213: 7652926741861388216
+    second: NES Platformer (1)_37
+  - first:
+      213: 7573098058521418767
+    second: NES Platformer (1)_38
+  - first:
+      213: 5219822174271593903
+    second: NES Platformer (1)_39
+  - first:
+      213: 6472368597242760819
+    second: NES Platformer (1)_40
+  - first:
+      213: 3893247821224653196
+    second: NES Platformer (1)_41
+  - first:
+      213: 2101150751374953584
+    second: NES Platformer (1)_42
+  - first:
+      213: -4651304745698677536
+    second: NES Platformer (1)_43
+  - first:
+      213: 8914841019812382953
+    second: NES Platformer (1)_44
+  - first:
+      213: 4476561067305950095
+    second: NES Platformer (1)_45
+  - first:
+      213: -6177371088038578702
+    second: NES Platformer (1)_46
+  - first:
+      213: -414967699507380683
+    second: NES Platformer (1)_47
+  - first:
+      213: -4501538100062438244
+    second: NES Platformer (1)_48
+  - first:
+      213: -1224503195362876049
+    second: NES Platformer (1)_49
+  - first:
+      213: 985979030123980686
+    second: NES Platformer (1)_50
+  - first:
+      213: 7459671613806473204
+    second: NES Platformer (1)_51
+  - first:
+      213: 6218447751392211166
+    second: NES Platformer (1)_52
+  - first:
+      213: 3469517626002417414
+    second: NES Platformer (1)_53
+  - first:
+      213: 6557037295214859379
+    second: NES Platformer (1)_54
+  - first:
+      213: 5500991672791191174
+    second: NES Platformer (1)_55
+  - first:
+      213: -8665532941081967414
+    second: NES Platformer (1)_56
+  - first:
+      213: 6078295626158183315
+    second: NES Platformer (1)_57
+  - first:
+      213: -6908383596210552876
+    second: NES Platformer (1)_58
+  - first:
+      213: 5432999681726482168
+    second: NES Platformer (1)_59
+  - first:
+      213: -7698556280473735191
+    second: NES Platformer (1)_60
+  - first:
+      213: 1473434136614912213
+    second: NES Platformer (1)_61
+  - first:
+      213: 5976255856614024618
+    second: NES Platformer (1)_62
+  - first:
+      213: 4811538004308484686
+    second: NES Platformer (1)_63
+  - first:
+      213: 1049812398952876289
+    second: NES Platformer (1)_64
+  - first:
+      213: -5055630486552342347
+    second: NES Platformer (1)_65
+  - first:
+      213: -1879842634505818174
+    second: NES Platformer (1)_66
+  - first:
+      213: 124661422037970920
+    second: NES Platformer (1)_67
+  - first:
+      213: 5917091005739835381
+    second: NES Platformer (1)_68
+  - first:
+      213: -2110495127740253998
+    second: NES Platformer (1)_69
+  - first:
+      213: 126518149738082264
+    second: NES Platformer (1)_70
+  - first:
+      213: 9139848285055581691
+    second: NES Platformer (1)_71
+  - first:
+      213: 5036124886759212187
+    second: NES Platformer (1)_72
+  - first:
+      213: 34115773412231948
+    second: NES Platformer (1)_73
+  - first:
+      213: 9193394956499345196
+    second: NES Platformer (1)_74
+  - first:
+      213: 7333843688083391547
+    second: NES Platformer (1)_75
+  - first:
+      213: 6644005126688031128
+    second: NES Platformer (1)_76
+  - first:
+      213: -5356695296167621300
+    second: NES Platformer (1)_77
+  - first:
+      213: -3349812183120969499
+    second: NES Platformer (1)_78
+  - first:
+      213: -3685908930821602551
+    second: NES Platformer (1)_79
+  - first:
+      213: 3710166753681963537
+    second: NES Platformer (1)_80
+  - first:
+      213: -136830308717483857
+    second: NES Platformer (1)_81
+  - first:
+      213: -6493259024596172840
+    second: NES Platformer (1)_82
+  - first:
+      213: 6071411151893540644
+    second: NES Platformer (1)_83
+  - first:
+      213: -8779817772470991280
+    second: NES Platformer (1)_84
+  - first:
+      213: 5564016731777231261
+    second: NES Platformer (1)_85
+  - first:
+      213: -6589241790406323622
+    second: NES Platformer (1)_86
+  - first:
+      213: 4392235350926192139
+    second: NES Platformer (1)_87
+  - first:
+      213: -195121576273031225
+    second: NES Platformer (1)_88
+  - first:
+      213: 4392050846630190262
+    second: NES Platformer (1)_89
+  - first:
+      213: 3911511314594473742
+    second: NES Platformer (1)_90
+  - first:
+      213: 6781712721540170116
+    second: NES Platformer (1)_91
+  - first:
+      213: -3872345598736511054
+    second: NES Platformer (1)_92
+  - first:
+      213: 8099720206000204484
+    second: NES Platformer (1)_93
+  - first:
+      213: -5735418066973986748
+    second: NES Platformer (1)_94
+  - first:
+      213: 8679825352610797488
+    second: NES Platformer (1)_95
+  - first:
+      213: 2079489363828487859
+    second: NES Platformer (1)_96
+  - first:
+      213: -5961045098520336064
+    second: NES Platformer (1)_97
+  - first:
+      213: 5305987977271604336
+    second: NES Platformer (1)_98
+  - first:
+      213: 430724878232603778
+    second: NES Platformer (1)_99
+  - first:
+      213: 8263390671411736626
+    second: NES Platformer (1)_100
+  - first:
+      213: -8983625827659969403
+    second: NES Platformer (1)_101
+  - first:
+      213: -8452141469979502306
+    second: NES Platformer (1)_102
+  - first:
+      213: -2925743689620041886
+    second: NES Platformer (1)_103
+  - first:
+      213: 840597517728801663
+    second: NES Platformer (1)_104
+  - first:
+      213: 13349376084073021
+    second: NES Platformer (1)_105
+  - first:
+      213: 1554839784891993898
+    second: NES Platformer (1)_106
+  - first:
+      213: -8828522100433938519
+    second: NES Platformer (1)_107
+  - first:
+      213: -7056047337257817500
+    second: NES Platformer (1)_108
+  - first:
+      213: 1853987004153275013
+    second: NES Platformer (1)_109
+  - first:
+      213: 3673840519536699418
+    second: NES Platformer (1)_110
+  - first:
+      213: -6422285453972488394
+    second: NES Platformer (1)_111
+  - first:
+      213: 9194705929113466873
+    second: NES Platformer (1)_112
+  - first:
+      213: -34181977117942579
+    second: NES Platformer (1)_113
+  - first:
+      213: 4556555067339209346
+    second: NES Platformer (1)_114
+  - first:
+      213: -5828548730809061923
+    second: NES Platformer (1)_115
+  - first:
+      213: 7510894687957823721
+    second: NES Platformer (1)_116
+  - first:
+      213: -1209997684734716641
+    second: NES Platformer (1)_117
+  - first:
+      213: -3866323194538106374
+    second: NES Platformer (1)_118
+  - first:
+      213: -5746365187429983553
+    second: NES Platformer (1)_119
+  - first:
+      213: 7855480948866492399
+    second: NES Platformer (1)_120
+  - first:
+      213: -2331844089822743945
+    second: NES Platformer (1)_121
+  - first:
+      213: 8537080669010756735
+    second: NES Platformer (1)_122
+  - first:
+      213: 8189309394475604239
+    second: NES Platformer (1)_123
+  - first:
+      213: 8474016654801515694
+    second: NES Platformer (1)_124
+  - first:
+      213: 3151489231405160282
+    second: NES Platformer (1)_125
+  - first:
+      213: 884041897508663862
+    second: NES Platformer (1)_126
+  - first:
+      213: 8577644972022215369
+    second: NES Platformer (1)_127
+  - first:
+      213: 4969501272698559925
+    second: NES Platformer (1)_128
+  - first:
+      213: 5763718340966156000
+    second: NES Platformer (1)_129
+  - first:
+      213: -6144366908492920170
+    second: NES Platformer (1)_130
+  - first:
+      213: 7025386717197603255
+    second: NES Platformer (1)_131
+  - first:
+      213: 5001474135502206334
+    second: NES Platformer (1)_132
+  - first:
+      213: -5439033915839493367
+    second: NES Platformer (1)_133
+  - first:
+      213: 5419687738171834894
+    second: NES Platformer (1)_134
+  - first:
+      213: -1387870062086898792
+    second: NES Platformer (1)_135
+  - first:
+      213: 6741937387630007056
+    second: NES Platformer (1)_136
+  - first:
+      213: 6038872479084899441
+    second: NES Platformer (1)_137
+  - first:
+      213: 5885596242045399303
+    second: NES Platformer (1)_138
+  - first:
+      213: -2272543147768759839
+    second: NES Platformer (1)_139
+  - first:
+      213: -8059693517836482292
+    second: NES Platformer (1)_140
+  - first:
+      213: -6313240756726378736
+    second: NES Platformer (1)_141
+  - first:
+      213: -8270165975607502811
+    second: NES Platformer (1)_142
+  - first:
+      213: 3018888300691757713
+    second: NES Platformer (1)_143
+  - first:
+      213: -5281283215081631772
+    second: NES Platformer (1)_144
+  - first:
+      213: 4958152172360482191
+    second: NES Platformer (1)_145
+  - first:
+      213: -2590188964597968772
+    second: NES Platformer (1)_146
+  - first:
+      213: -686566227196921151
+    second: NES Platformer (1)_147
+  - first:
+      213: -2862977114080390935
+    second: NES Platformer (1)_148
+  - first:
+      213: -1744269000661430142
+    second: NES Platformer (1)_149
+  - first:
+      213: 6213121593873958223
+    second: NES Platformer (1)_150
+  - first:
+      213: 42618198691240999
+    second: NES Platformer (1)_151
+  - first:
+      213: 7740369130081162807
+    second: NES Platformer (1)_152
+  - first:
+      213: 7706418992495313613
+    second: NES Platformer (1)_153
+  - first:
+      213: -5692089830152908621
+    second: NES Platformer (1)_154
+  - first:
+      213: -2147538495216648514
+    second: NES Platformer (1)_155
+  - first:
+      213: -8215010477367219110
+    second: NES Platformer (1)_156
+  - first:
+      213: 7982522181395135958
+    second: NES Platformer (1)_157
+  - first:
+      213: -8530136092833490011
+    second: NES Platformer (1)_158
+  - first:
+      213: 1582359608130588971
+    second: NES Platformer (1)_159
+  - first:
+      213: 4754111415961141165
+    second: NES Platformer (1)_160
+  - first:
+      213: -5993028024938047566
+    second: NES Platformer (1)_161
+  - first:
+      213: 359890371862673940
+    second: NES Platformer (1)_162
+  - first:
+      213: 567267364250008574
+    second: NES Platformer (1)_163
+  - first:
+      213: 6808614022541791882
+    second: NES Platformer (1)_164
+  - first:
+      213: 2089405243861635834
+    second: NES Platformer (1)_165
+  - first:
+      213: -288620885723354808
+    second: NES Platformer (1)_166
+  - first:
+      213: 1640390930120580044
+    second: NES Platformer (1)_167
+  - first:
+      213: -5131111183260135280
+    second: NES Platformer (1)_168
+  - first:
+      213: -7606724622322028042
+    second: NES Platformer (1)_169
+  - first:
+      213: -8555004389488871750
+    second: NES Platformer (1)_170
+  - first:
+      213: -593984471594288676
+    second: NES Platformer (1)_171
+  - first:
+      213: 4964819496447731492
+    second: NES Platformer (1)_172
+  - first:
+      213: -8087883652780060751
+    second: NES Platformer (1)_173
+  - first:
+      213: 5230068577553083757
+    second: NES Platformer (1)_174
+  - first:
+      213: 3593782815568402483
+    second: NES Platformer (1)_175
+  - first:
+      213: -5311054139074200113
+    second: NES Platformer (1)_176
+  - first:
+      213: 5490338321100221341
+    second: NES Platformer (1)_177
+  - first:
+      213: 3126798604180542354
+    second: NES Platformer (1)_178
+  - first:
+      213: -6283911181931870458
+    second: NES Platformer (1)_179
+  - first:
+      213: 8881430239862475862
+    second: NES Platformer (1)_180
+  - first:
+      213: -2022331226755410022
+    second: NES Platformer (1)_181
+  - first:
+      213: -4203569233858298875
+    second: NES Platformer (1)_182
+  - first:
+      213: 3353962728539088896
+    second: NES Platformer (1)_183
+  - first:
+      213: 4607824669492989114
+    second: NES Platformer (1)_184
+  - first:
+      213: -4827698095934349525
+    second: NES Platformer (1)_185
+  - first:
+      213: -3892515327076801467
+    second: NES Platformer (1)_186
+  - first:
+      213: -5995333558966778925
+    second: NES Platformer (1)_187
+  - first:
+      213: -4519010913386704899
+    second: NES Platformer (1)_188
+  - first:
+      213: 3110485965360580620
+    second: NES Platformer (1)_189
+  - first:
+      213: 3657480273902348789
+    second: NES Platformer (1)_190
+  - first:
+      213: -423891524603658127
+    second: NES Platformer (1)_191
+  - first:
+      213: 127025925487512768
+    second: NES Platformer (1)_192
+  - first:
+      213: 7735068521235820311
+    second: NES Platformer (1)_193
+  - first:
+      213: -5428056865963960790
+    second: NES Platformer (1)_194
+  - first:
+      213: -3274621562670662485
+    second: NES Platformer (1)_195
+  - first:
+      213: 4798639277494561151
+    second: NES Platformer (1)_196
+  - first:
+      213: -4466776047726454350
+    second: NES Platformer (1)_197
+  - first:
+      213: -8720182752834635623
+    second: NES Platformer (1)_198
+  - first:
+      213: 5009392666828679677
+    second: NES Platformer (1)_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES Platformer (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183dd48b6b0929420800000000000000
+      internalID: 2635327846415717249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0bf70ecd97a430800000000000000
+      internalID: 3794174719305649121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990f545b45033db0800000000000000
+      internalID: -4813497755632727655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd83963b92a5bda0800000000000000
+      internalID: -5929654546844119619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc80edab5da7170800000000000000
+      internalID: 8177083072010308671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82137c6a1ad71ea90800000000000000
+      internalID: -7286404588867473112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ec4f0019e8b0b0800000000000000
+      internalID: -5712559872134029261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4828c36b6ba7a00800000000000000
+      internalID: 755116781353469173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a270104e675c70800000000000000
+      internalID: 8959751205109801642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77699eb39ca8160800000000000000
+      internalID: 7028651427624286142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES Platformer (1)_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9c7d8783d68e10800000000000000
+      internalID: 2199678047164866514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
