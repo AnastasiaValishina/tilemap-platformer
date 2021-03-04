@@ -5,25 +5,28 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] float runSpeed = 5f;
+    [SerializeField] float jumpSpeed = 5f;
 
     Rigidbody2D rb2d;
     Animator animator;
+    Collider2D collider;
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        collider = GetComponent<Collider2D>();
     }
 
     void Update()
     {
         Run();
+        Jump();
         FlipSprite();
     }
 
     private void Run()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
-        // float verticalInput = Input.GetAxis("Vertical");
 
         Vector2 playerVelocity = new Vector2(horizontalInput * runSpeed, rb2d.velocity.y);
         rb2d.velocity = playerVelocity;
@@ -35,6 +38,19 @@ public class Player : MonoBehaviour
         else
         {
             animator.SetBool("Running", false);
+        }
+    }
+
+    private void Jump()
+    {
+        if (!collider.IsTouchingLayers(LayerMask.GetMask("Ground"))) { return; }
+        else
+        {
+            if (Input.GetButtonDown("Jump"))
+            {
+                Vector2 jumpVelocity = new Vector2(0f, jumpSpeed);
+                rb2d.velocity += jumpVelocity;
+            }
         }
     }
 
