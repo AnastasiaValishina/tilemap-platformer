@@ -6,21 +6,25 @@ public class Player : MonoBehaviour
 {
     [SerializeField] float runSpeed = 5f;
     [SerializeField] float jumpSpeed = 5f;
+    [SerializeField] float climbSpeed = 5f;
 
     Rigidbody2D rb2d;
     Animator animator;
     Collider2D collider;
+    float initialGravity;
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         collider = GetComponent<Collider2D>();
+        initialGravity = rb2d.gravityScale;
     }
 
     void Update()
     {
         Run();
         Jump();
+        ClimbLadder();
         FlipSprite();
     }
 
@@ -52,6 +56,31 @@ public class Player : MonoBehaviour
                 rb2d.velocity += jumpVelocity;
             }
         }
+    }
+
+    private void ClimbLadder()
+    {
+        if (!collider.IsTouchingLayers(LayerMask.GetMask("Ladder"))) 
+        {
+            animator.SetBool("Climbing", false);
+            rb2d.gravityScale = initialGravity;
+            return; 
+        }
+
+        float verticalInput = Input.GetAxis("Vertical");
+
+        if (verticalInput != 0)
+        {
+            Vector2 climpVelocity = new Vector2(rb2d.velocity.x, verticalInput * climbSpeed);
+            rb2d.velocity = climpVelocity;
+            rb2d.gravityScale = 0;
+            animator.SetBool("Climbing", true);
+        }
+        else 
+        {
+            animator.SetBool("Climbing", false);
+        }
+
     }
 
     private void FlipSprite()
