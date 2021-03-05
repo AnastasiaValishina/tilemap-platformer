@@ -82,7 +82,6 @@ public class Player : MonoBehaviour
         {
             animator.SetBool("Climbing", false);
         }
-
     }
 
     private void FlipSprite()
