@@ -68,7 +68,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -935012115
-  m_SortingLayer: 4
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: -570807933488141205, guid: f5087ca9a937c0b42bee1182cc96d680,
     type: 3}
@@ -91,11 +91,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5361255523999719529}
-  - component: {fileID: 5361255523999719535}
   - component: {fileID: 5361255523999719534}
   - component: {fileID: 5361255523999719528}
   - component: {fileID: 5361255523999719532}
   - component: {fileID: 5361255523999719533}
+  - component: {fileID: 7335624871840143616}
   m_Layer: 12
   m_Name: Enemy
   m_TagString: Untagged
@@ -118,22 +118,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &5361255523999719535
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5361255523999719531}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0017885268, y: -0.16747677}
-  serializedVersion: 2
-  m_Radius: 0.32891238
 --- !u!95 &5361255523999719534
 Animator:
   serializedVersion: 3
@@ -213,3 +197,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.052714825, y: 0.41225576}
   m_EdgeRadius: 0
+--- !u!70 &7335624871840143616
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5361255523999719531}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.19182587}
+  m_Size: {x: 0.4028015, y: 0.61634827}
+  m_Direction: 0
