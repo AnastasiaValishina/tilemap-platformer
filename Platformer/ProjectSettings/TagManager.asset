@@ -20,7 +20,7 @@ TagManager:
   - Enemy
   - Hazard
   - Interactable
-  - 
+  - Flowers
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 2726012055
+    locked: 0
+  - name: Flowers
+    uniqueID: 1605942457
     locked: 0
   - name: Ladder
     uniqueID: 909543215
