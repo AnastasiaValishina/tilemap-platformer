@@ -7,6 +7,7 @@ public class StrawberryPickup : MonoBehaviour
     [SerializeField] AudioClip pickupSFX;
     [SerializeField] float timeBeforeDestroying = 1f;
     [SerializeField] int pickupValue = 1;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision is BoxCollider2D) { return; }
@@ -16,7 +17,8 @@ public class StrawberryPickup : MonoBehaviour
     IEnumerator Collect()
     {
         GetComponent<Animator>().SetTrigger("Collected");
-        AudioSource.PlayClipAtPoint(pickupSFX, Camera.main.transform.position);
+        GameObject audioListener = GameObject.FindWithTag("AudioListener");
+        AudioSource.PlayClipAtPoint(pickupSFX, audioListener.transform.position);
         FindObjectOfType<GameSession>().AddToScore(pickupValue);
         yield return new WaitForSeconds(timeBeforeDestroying);
         Destroy(gameObject);
