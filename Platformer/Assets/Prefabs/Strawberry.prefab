@@ -135,6 +135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickupSFX: {fileID: 8300000, guid: dc16caadaf6a94e4fb8211923e077415, type: 3}
   timeBeforeDestroying: 0.6
+  pickupValue: 1
 --- !u!82 &2309063596964086723
 AudioSource:
   m_ObjectHideFlags: 0
@@ -146,7 +147,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
