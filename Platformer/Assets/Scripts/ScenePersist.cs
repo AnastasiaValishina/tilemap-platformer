@@ -1,37 +1,34 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ScenePersist : MonoBehaviour
 {
+    static ScenePersist instance = null;
     int startingSceneIndex;
-    void Awake()
-    {
-        int numberOfObjects = FindObjectsOfType<ScenePersist>().Length;
-
-        if (numberOfObjects > 1)
-        {
-            Destroy(gameObject);
-        }
-        else
-        {
-            DontDestroyOnLoad(gameObject);
-        }
-    }
-
+ 
     void Start()
     {
-        startingSceneIndex = SceneManager.GetActiveScene().buildIndex;
-    }
-
-    private void Update()
-    {
-        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-
-        if (currentSceneIndex != startingSceneIndex)
+        if (!instance)
+        {
+            instance = this;
+            SceneManager.sceneLoaded += OnSceneLoaded;
+            startingSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            DontDestroyOnLoad(gameObject);
+        }
+        else if (instance != this)
         {
             Destroy(gameObject);
         }
     }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (startingSceneIndex != SceneManager.GetActiveScene().buildIndex)
+        {
+            instance = null;
+            SceneManager.sceneLoaded -= OnSceneLoaded;
+            Destroy(gameObject);
+        }
+    } 
 }
