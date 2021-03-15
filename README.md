@@ -1,2 +1,7 @@
 # tilemap-platformer
-In progress: учебный проект в жанре platformer
+Учебный проект в жанре platformer
+
+Использованные инструменты Unity:
+- Cinemachine
+- Tilemap: Rule Tiles
+- Спрайтовая анимация
