@@ -1,10 +1,10 @@
 # Tilemap Platformer
-<p>A platformer game created as a learning project in Unity based on the course.</p>
+<p>A platformer game created as a learning project in Unity based on the course <a href="https://www.udemy.com/course/unitycourse">Complete C# Unity Game Developer 2D</a>.</p>
 
 ## 🎯 Tools and Features
 <ul>
   <li>Smooth camera handling using <strong>Cinemachine</strong>.</li>
-  <li>Dependency injection with <strong>Zenject</strong>.</li>
+  <li><strong>Tilemap with Rule Tiles</strong>: Easy level design and tile automation.</li>
   <li><strong>Sprite Animation</strong>: Animated characters and objects for a lively experience.</li>
 </ul>
 
