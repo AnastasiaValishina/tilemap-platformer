@@ -11,6 +11,6 @@
 ## 🎯 Build
 Download build: [Tilemap Platformer](https://drive.google.com/file/d/1QMitH2N-nE94JUYzkSOtp4j9-3u_KxOp/view)
 
-Watch the gameplay here: [Platformer Demo](https://youtu.be/Q67t7VF44MI) 
+[![Platformer Demo](https://img.youtube.com/vi/Q67t7VF44MI/1.jpg)](https://youtu.be/Q67t7VF44MI)
 
 <p>Unity version: 2019.4.1f1</p>
