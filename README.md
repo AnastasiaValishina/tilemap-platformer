@@ -8,11 +8,13 @@
   <li><strong>Sprite Animation</strong>: Animated characters and objects for a lively experience.</li>
 </ul>
 
-## 🎯 Build
+## 🎯 Build and Gameplay Video
 Download build: [Tilemap Platformer](https://drive.google.com/file/d/1QMitH2N-nE94JUYzkSOtp4j9-3u_KxOp/view)
 
 Watch the gameplay here: 
 
-[![Platformer Demo](https://img.youtube.com/vi/Q67t7VF44MI/0.jpg)](https://youtu.be/Q67t7VF44MI)
+<a href="https://youtu.be/Q67t7VF44MI">
+    <img src="https://img.youtube.com/vi/Q67t7VF44MI/0.jpg" alt="Platformer Demo" style="width:600px;"/>
+</a>
 
 <p>Unity version: 2019.4.1f1</p>
