@@ -9,7 +9,7 @@
 </ul>
 
 ## 🎯 Build and Gameplay Video
-Download build: [Tilemap Platformer](https://drive.google.com/file/d/1QMitH2N-nE94JUYzkSOtp4j9-3u_KxOp/view)
+[Play Tilemap Platformer](https://anastasiavalishina.github.io/platformer-build/)
 
 Watch the gameplay here: 
 
